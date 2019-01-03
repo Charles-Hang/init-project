@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <p>这是一个空项目</p>
         </header>
       </div>
     );
